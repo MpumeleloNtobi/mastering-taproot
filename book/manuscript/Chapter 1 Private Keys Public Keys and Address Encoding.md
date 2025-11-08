@@ -65,7 +65,7 @@ The WIF encoding process follows these steps:
 2. **Calculate checksum**: Apply SHA256(SHA256(data)) and take first 4 bytes
 3. **Apply Base58 encoding**: Convert to human-readable format
 
-![](wif-encoding-flow.png)
+![WIF encoding flow](./resources/wif-encoding-flow.png)
 
 
 *Figure 1-1: WIF encoding transforms a 32-byte private key into a Base58Check encoded string*
@@ -88,7 +88,7 @@ y² = x³ + 7
 
 ```
 
-![](Secp256k1.png)
+![Secp256k1 curve](./resources/Secp256k1.png)
 
 *Figure 1-2: The secp256k1 elliptic curve used by Bitcoin*
 
@@ -176,7 +176,7 @@ All Bitcoin addresses follow a similar pattern:
 3. **Add checksum**: Error detection mechanism
 4. **Encode**: Base58Check or Bech32 encoding
 
-![](Bitcoin_address_legacy.png)
+![Legacy bitcoin address flow](./resources/Bitcoin_address_legacy.png)
 
 *Figure 1-3: Converting a public key to a Bitcoin address through hashing and encoding in a Legacy way*
 
@@ -271,7 +271,7 @@ In later chapters, we’ll focus on what truly matters: the actual scriptPubKey 
 
 Understanding the derivation relationships between keys and addresses is crucial. The diagram below brings together the entire address derivation pipeline—from private key generation to the final on-chain script. While most wallet users only see the address, developers need to trace the full path to understand how Bitcoin enforces ownership and spending conditions.
 
-![](TheSecurityModel.jpg)
+![Key-pubkey-address relationships](./resources/TheSecurityModel.jpg)
 
 *Figure 1-4: The derivation relationships between private keys, public keys, addresses, and WIF format*
 
