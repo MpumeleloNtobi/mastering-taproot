@@ -23,4 +23,4 @@
 | commitment | 承诺 | taproot 语境“可验证前向承诺” |
 | tap tweak | tap tweak（不翻） | BIP341 专名，不建议翻 |
 | Schnorr signature | Schnorr 签名 | |
-| signature uniqueness | 签名唯一性 | 替代你原来的 “signature aggregation” |
+| signature uniqueness | 签名唯一性 | 替代原来的 “signature aggregation” |
