@@ -48,6 +48,24 @@ This project values *precision and reproducibility* above abstraction or opinion
 
 ---
 
+## 🔄 Recent Public Updates
+
+(auto-updated during evaluation period)
+
+- **Dec 1, 2025** — Added full runnable Python examples for Chapters 1–3 (key generation, P2PKH, P2SH, SegWit witness execution).
+
+- **Dec 2, 2025** — Corrected previous_txid in Chapter 6 script-path spend; verified with new testnet transaction.
+
+- **Dec 3, 2025** — Preparing Taproot key-tweaking examples (BIP340/341 math + address construction).
+
+- **This Week** — Uploading single-leaf Taproot spend + OP_CHECKSIG path.
+
+- **Next Week** — Multi-leaf Merkle tree constructor + control-block generator (matching book Chapter 7).
+
+- **Upcoming** — Full 4-leaf script-path spend (hashlock, multisig, CSV timelock, single-sig) with testnet-verified witness.
+
+---
+
 ### License
 
 - Text: **CC-BY-SA 4.0**
