@@ -43,6 +43,10 @@ Updates are pushed regularly as chapters and code samples reach reproducible sta
 
 Parts of this repository will also be used in future Bitcoin developer onboarding sessions, further supporting newcomers entering Script, Taproot, and protocol-level engineering.
 
+**Notebook Edition (Early Preview):**
+
+An early MyST-based notebook version is being developed alongside this repository, enabling interactive execution of the core chapters (real testnet flows) as the project continues to mature.
+
 ---
 
 ### Repository Structure
