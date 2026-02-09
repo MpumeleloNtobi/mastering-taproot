@@ -23,7 +23,7 @@ deploy_to_github_pages.sh
 notes/
 worklog/
 memo/
-tools/
+/tools/
 
 # New book (not for this repo)
 book-cryptofund/
