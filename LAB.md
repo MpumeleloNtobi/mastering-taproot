@@ -53,6 +53,8 @@ Four recorded sessions to connect key ideas from the book:
 | Week 3 | Mar 8 | Bitcoin Programming Patterns (commit–reveal, script design thinking) |
 | Week 4 | Mar 15 | Frontier & Applications (RGB, Lightning, Silent Payments, BRC-20 from an engineering view) |
 
+**Weekly checkpoints** — Structured exercises in [labs/](labs/): copy the template, answer in writing, submit PR. Clarity > length. Best submissions may be discussed in the next session.
+
 **Month 2 — Builder Mode**
 
 Month 2 will be more builder-oriented, with optional experiments and small projects. More details later.
@@ -95,10 +97,11 @@ These tools are designed for experimentation, inspection, and script-level under
 
 ## How to Participate
 
-1. Clone the repo or work from the manuscript  
-2. Run examples from [code/](code/)  
-3. Experiment on testnet  
-4. Share findings via Issues or cohort channels  
+1. **Weekly checkpoints** — [labs/](labs/) for structured questions; fork, copy template, submit PR  
+2. Clone the repo or work from the manuscript  
+3. Run examples from [code/](code/)  
+4. Experiment on testnet  
+5. Share findings via Issues or cohort channels  
 
 Independent exploration is encouraged.
 
