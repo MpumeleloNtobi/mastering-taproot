@@ -19,7 +19,7 @@ Each step in this hierarchy serves a specific purpose:
 
 ## Private Keys: The Foundation of Ownership
 
-A Bitcoin private key is fundamentally a 256-bit random number—a massive integer that serves as the secret foundation of cryptocurrency ownership. To put this in perspective, the total number of possible private keys (2^256) exceeds the estimated number of atoms in the observable universe.
+A Bitcoin private key is fundamentally a 256-bit random number—a massive integer that serves as the secret foundation of cryptocurrency ownership. To put this in perspective, the total number of possible private keys (2^256) is comparable to the estimated number of atoms in the observable universe.
 
 ### Generating Private Keys
 
